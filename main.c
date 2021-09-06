@@ -2,17 +2,16 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+Hello   //Sample Code
 }
 
 Initial Security()
 {
  //Sample Code
-<<<<<<< HEAD
+
 Enter Password
 =======
 Provide your date of birth
->>>>>>> Feature2
 }
 
 
